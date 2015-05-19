@@ -1,7 +1,7 @@
 calgarygamedevelopers
 ====
 
-Calgary Game Developers Docs
+Calgary Game Developers docs
 based on [Bento Miso][1] docs
 
 [1]: https://github.com/jennie/miso
